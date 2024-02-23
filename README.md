@@ -9,6 +9,8 @@ https://stackoverflow.com/questions/37674017/how-to-solve-jsx-element-implicitly
 
 **server side component can't use hooks**
 
+Vercel 404 error
+
 # Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
 
 ![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
